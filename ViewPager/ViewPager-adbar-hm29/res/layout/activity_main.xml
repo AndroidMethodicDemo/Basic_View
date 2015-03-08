@@ -21,7 +21,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
-            android:text="阿隆索的空间法律手段"
+            android:text="text"
             android:textColor="#FFFFFF"
             android:textSize="14sp" />
 
